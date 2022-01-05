@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omorede2
+- 👋 Hi, I’m Omorede
 - 👀 I’m interested in Video Games and Unity Development
 - 🌱 I’m currently learning Java and Unity game engine as a QA tester
 - 💞️ I’m looking to collaborate on Video game Projects
